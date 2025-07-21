@@ -2,26 +2,26 @@
 <h3 align="center">A passionate Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="[https://your-portfolio.com](https://www.linkedin.com/in/deepayan-basu/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/deepayan-basu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:basudeepayan123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="ph:+91-9038769430">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack and AI-integrated web apps**
-- 🌱 I’m currently learning **Next.js, Pinecone, and LLM APIs**
-- 👯 I’m looking to collaborate on **open source, startups, and AI tools**
-- 💬 Ask me about **React, Node, FastAPI, or building scalable apps**
-- 📫 Reach me at **basudeepayan123@gmail.com**
+- 🔭 I’m currently working on **full-stack and data structures**
+- 🌱 I’m currently learning **spring framework and SpringBoot**
+- 💬 Ask me about **Develpment, AI Integration or Scalable Applications**
+- 📫 Reach me at [basudeepayan123@gmail.com](mailto:basudeepayan123@gmail.com) | 📱 [📞 +91-90387-69430]
 - ⚡ Fun fact: I love building productivity tools no one asked for but everyone ends up loving 😄
 
 ---
@@ -69,11 +69,14 @@
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/yourusername/project1">
+  <a href="[https://github.com/yourusername/project](https://github.com/dbasu03/Real_estate_mern)1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=default" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="[https://github.com/yourusername/project2](https://github.com/dbasu03/connectu)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=default" />
+  </a>
+  <a href="[https://github.com/yourusername/project3](https://github.com/dbasu03/ecokart)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=default" />
   </a>
 </p>
 

@@ -83,7 +83,7 @@
 <p align="left">
   <strong>EcoKart</strong><br />
   🔗 <a href="https://github.com/dbasu03/ecokart" target="_blank">GitHub Repo</a> | 
-  🌐 <a href="[https://your-live-demo-link.com](https://ecokart-five.vercel.app/)" target="_blank">Live Demo</a>
+  🌐  <a href="https://ecokart-five.vercel.app//" target="_blank">Live Demo</a>
 </p>
 
 

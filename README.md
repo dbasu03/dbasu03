@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Next.js, Pinecone, and LLM APIs**
 - 👯 I’m looking to collaborate on **open source, startups, and AI tools**
 - 💬 Ask me about **React, Node, FastAPI, or building scalable apps**
-- 📫 Reach me at **youremail@example.com**
+- 📫 Reach me at **basudeepayan123@gmail.com**
 - ⚡ Fun fact: I love building productivity tools no one asked for but everyone ends up loving 😄
 
 ---

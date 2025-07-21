@@ -76,7 +76,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=default" />
   </a>
   <a href="[https://github.com/yourusername/project3](https://github.com/dbasu03/ecokart)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=default" />
+    <img align="center" src="https://ecokart-five.vercel.app/" />
   </a>
 </p>
 

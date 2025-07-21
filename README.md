@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack and data structures**
-- 🌱 I’m currently learning **spring framework and SpringBoot**
+- 🔭 I’m currently working on **Full-Stack and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Spring Framework and SpringBoot**
 - 💬 Ask me about **Develpment, AI Integration or Scalable Applications**
 - 📫 Reach me at [basudeepayan123@gmail.com](mailto:basudeepayan123@gmail.com) | 📱 [📞 +91-90387-69430]
 - ⚡ Fun fact: I love building productivity tools no one asked for but everyone ends up loving 😄

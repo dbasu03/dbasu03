@@ -8,7 +8,7 @@
   <a href="mailto:basudeepayan123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="ph:+91-9038769430">
+  <a href="tel:+91-9038769430">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </p>
@@ -69,32 +69,35 @@
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="[https://github.com/yourusername/project](https://github.com/dbasu03/Real_estate_mern)1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=default" />
-  </a>
-  <a href="[https://github.com/yourusername/project2](https://github.com/dbasu03/connectu)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=default" />
-  </a>
-  <a href="[https://github.com/yourusername/project3](https://github.com/dbasu03/ecokart)">
-    <img align="center" src="https://ecokart-five.vercel.app/" />
-  </a>
+  <strong>Real Estate MERN</strong><br />
+  🔗 <a href="https://github.com/dbasu03/Real_estate_mern" target="_blank">GitHub Repo</a> | 
+  🌐 <a href="https://mern-estate-g4qv.onrender.com/" target="_blank">Live Demo</a>
 </p>
+
+<p align="left">
+  <strong>ConnectU</strong><br />
+  🔗 <a href="https://github.com/dbasu03/connectu" target="_blank">GitHub Repo</a> | 
+  🌐 <a href="https://connectu2dworld.web.app/" target="_blank">Live Demo</a>
+</p>
+
+<p align="left">
+  <strong>EcoKart</strong><br />
+  🔗 <a href="https://github.com/dbasu03/ecokart" target="_blank">GitHub Repo</a> | 
+  🌐 <a href="[https://your-live-demo-link.com](https://ecokart-five.vercel.app/)" target="_blank">Live Demo</a>
+</p>
+
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="yourusername" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="top languages" />
-</p>
 
 ---
 
 ### 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepayan-basu/)
+- 📧 [basudeepayan123@gmail.com](mailto:basudeepayan123@gmail.com)
+- 📱 [Phone: +91-9038769430](tel:+919038769430)
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepayan-basu/))
-- 📧 [youremail@example.com](mailto:basudeepayan123@gmail.com)
 
 ---
 

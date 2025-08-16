@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Spring Framework and SpringBoot**
 - 💬 Ask me about **Develpment, AI Integration or Scalable Applications**
 - 📫 Reach me at [basudeepayan123@gmail.com](mailto:basudeepayan123@gmail.com) | 📱 [📞 +919038769430]
-- ⚡ Fun fact: I love building productivity tools no one asked for but everyone ends up loving 😄
+- ⚡ Fun fact: I love learning new technologies that power the world 😄
 
 ---
 

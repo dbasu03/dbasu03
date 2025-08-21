@@ -66,24 +66,11 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Projects
 
 <p align="left">
-  <strong>Real Estate MERN</strong><br />
-  🔗 <a href="https://github.com/dbasu03/Real_estate_mern" target="_blank">GitHub Repo</a> | 
-  🌐 <a href="https://mern-estate-g4qv.onrender.com/" target="_blank">Live Demo</a>
-</p>
 
-<p align="left">
-  <strong>ConnectU</strong><br />
-  🔗 <a href="https://github.com/dbasu03/connectu" target="_blank">GitHub Repo</a> | 
-  🌐 <a href="https://connectu2dworld.web.app/" target="_blank">Live Demo</a>
-</p>
-
-<p align="left">
-  <strong>EcoKart</strong><br />
-  🔗 <a href="https://github.com/dbasu03/ecokart" target="_blank">GitHub Repo</a> | 
-  🌐  <a href="https://ecokart-five.vercel.app//" target="_blank">Live Demo</a>
+  🌐  <a href="https://deepayanbasu.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 
